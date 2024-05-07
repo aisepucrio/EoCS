@@ -14,4 +14,4 @@ Developer fixes are present in the 01_12_merged_fixation.tsv file
 
 The developers' answers are present in the answers_experiments.tsv file
 
-The questions asked during the survey are on questions.doc
+The data_dictionary.doc present the questions for each column in answers_experiments.tsv file.
