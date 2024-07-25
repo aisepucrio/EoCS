@@ -38,3 +38,6 @@ The *data_dictionary.pdf* provides the data dictionary for the features collecte
 
 The *code_snippets.xlsx* file contains the data for each code snippet extracted from MLCQ dataset that was analyzed by the developers who participated in the study.
 
+### Survey
+
+The *Survey.pdf* file presents the form used for the collection of qualitative data from the participants who performed the experiment.
