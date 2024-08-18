@@ -6,7 +6,13 @@ This repository contains supplementary results and the data used in the study "E
 
 ![Overview](overview.png)
 
-In this study, we conduct an analysis of developers' responses to code smells using eye-tracking technology. We examine 13 code snippets, each potentially containing one of three types of code smells: data class, feature envy or long method. Our objective is to understand the cognitive load these smells impose on developers during program comprehension. Data was collected from 12 participants, who performed tasks involving the analysis of these code snippets. We measured fixation to determine how different code smells influence developers' attention and cognitive effort. Using metrics such as Average Fixation Duration (AFD) and fixation count (FC), our study provides insights into the impact of code smells on developers' cognitive processes.
+In this study, we conducted an analysis of developers' responses to code smells using eye-tracking technology. We examined 13 code snippets, each potentially containing one of three types of code smells: data class, feature envy, or long method. Our objective was to understand the cognitive load these smells impose on developers during program comprehension.
+
+The code snippets were selected from the "MLCQ" (Madeyski Lewowski Code Quest) dataset, which includes 4,770 manually reviewed code samples from 792 open-source projects. This dataset was chosen for its robustness and relevance, as it was developed with the support of 26 experienced industry developers who provided detailed severity classifications for various code smells.
+
+Data was collected from 12 participants, who analyzed the selected code snippets while their eye movements were tracked. The experiment took place in a controlled university environment, ensuring minimal external interference. We measured fixation metrics, such as Average Fixation Duration (AFD) and fixation count (FC), to determine how different code smells influence developers' attention and cognitive effort.
+
+All participants provided informed consent, and their data were anonymized to protect their privacy.
 
 -----
 
