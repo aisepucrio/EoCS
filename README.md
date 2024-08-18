@@ -14,6 +14,12 @@ Data was collected from 12 participants, who analyzed the selected code snippets
 
 All participants provided informed consent, and their data were anonymized to protect their privacy.
 
+### Required Skills
+The reviewer should have a basic understanding of Java programming to review and understand the code snippets. Familiarity with common Java coding patterns and practices will be beneficial for interpreting the code snippets and the presence or not of code smells.
+
+### Required Resources
+The artifacts can be reviewed and executed on any standard computer system. There are no specific hardware requirements. The artifacts are compatible with any operating system. No additional software packages or specific devices are required.
+
 -----
 
 ## Results
